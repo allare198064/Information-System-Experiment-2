@@ -12,7 +12,7 @@ Number：407410306
 
 【2020.03.06】
 
-- [My GitHub](https://allare198064.github.io/2019-Summer-College/)
+- [My GitHub](https://allare198064.github.io/Information-System-Experiment-2/)
 
 - Self study 
 
